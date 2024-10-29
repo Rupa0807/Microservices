@@ -12,5 +12,6 @@ Day 1- Microservices Vs Monolithic </br>
 Day 2- Spring Boot Setup </br>
 Day 3- Spring DI </br>
 Day 4 - Restful Web services with SpringBoot</br>
+Day 5 - Restful CRUD with Spring Data JPA</br>
 
 
