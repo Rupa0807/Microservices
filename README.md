@@ -8,10 +8,12 @@ Welcome to my **30 Days of Microservices** learning journey! In this repository,
 
 Microservices architecture has become a popular style for building modern applications. By decomposing a large system into smaller, loosely coupled services, teams can build and deploy independently, making systems more scalable, maintainable, and easier to evolve. My goal is to get a deeper understanding of this architecture style by learning through theory and practice over the next 30 days.
 
-Day 1- Microservices Vs Monolithic </br>
-Day 2- Spring Boot Setup </br>
-Day 3- Spring DI </br>
+Day 1 - Microservices Vs Monolithic </br>
+Day 2 - Spring Boot Setup </br>
+Day 3 - Spring DI </br>
 Day 4 - Restful Web services with SpringBoot</br>
 Day 5 - Restful CRUD with Spring Data JPA</br>
+Day 6 - SpringBoot Configurations </br>
+Day 7 - DTO pattern in Java SpringBoot Microservices
 
 
