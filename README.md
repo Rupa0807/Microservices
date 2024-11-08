@@ -14,6 +14,8 @@ Day 3 - Spring DI </br>
 Day 4 - Restful Web services with SpringBoot</br>
 Day 5 - Restful CRUD with Spring Data JPA</br>
 Day 6 - SpringBoot Configurations </br>
-Day 7 - DTO pattern in Java SpringBoot Microservices
+Day 7 - DTO pattern in Java SpringBoot Microservices</br>
+Day 8 - Consume REST API with Rest Template</br>
+Day 9 - Consume REST API with WebClient (Reactive Programming)</br>
 
 
