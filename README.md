@@ -18,5 +18,6 @@ Day 07 - DTO pattern in Java SpringBoot Microservices</br>
 Day 08 - Consume REST API with Rest Template</br>
 Day 09 - Consume REST API with WebClient (Reactive Programming)</br>
 Day 10 - InterService Communication using Feign Client
+Day 11 - Service Discovery
 
 
